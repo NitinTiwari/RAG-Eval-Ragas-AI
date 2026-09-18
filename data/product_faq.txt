@@ -1,0 +1,22 @@
+Acme Logistics Platform - Product FAQ
+
+Q: What is the Acme Logistics Platform?
+A: The Acme Logistics Platform is a cloud-based software solution that helps companies track shipments, manage warehouse inventory, and optimize delivery routes in real time. It integrates with over 40 carrier APIs including FedEx, UPS, DHL, and Maersk.
+
+Q: What pricing plans are available?
+A: Acme offers three pricing tiers: Starter ($99/month, up to 500 shipments), Growth ($499/month, up to 5,000 shipments), and Enterprise (custom pricing, unlimited shipments with dedicated support). All plans include a 14-day free trial.
+
+Q: How does route optimization work?
+A: The platform uses a proprietary algorithm that factors in real-time traffic data, fuel costs, delivery time windows, and vehicle capacity to compute the most efficient delivery routes. On average, customers report a 23% reduction in fuel costs after adopting route optimization.
+
+Q: Is there an API available for developers?
+A: Yes, Acme provides a RESTful API with full documentation. Developers can access shipment tracking, inventory levels, and route data programmatically. API rate limits are 1,000 requests per hour on the Growth plan and unlimited on Enterprise.
+
+Q: What kind of customer support is included?
+A: Starter plan customers get email support with a 24-hour response time. Growth plan customers get email and chat support with a 4-hour response time. Enterprise customers receive a dedicated account manager and 24/7 phone support.
+
+Q: Can the platform integrate with existing ERP systems?
+A: Yes, Acme supports pre-built integrations with SAP, Oracle NetSuite, and Microsoft Dynamics 365. Custom integrations can be built using the platform's webhook and API infrastructure.
+
+Q: What security certifications does Acme hold?
+A: Acme is SOC 2 Type II certified and ISO 27001 compliant. All data is encrypted at rest using AES-256 and in transit using TLS 1.3. Acme also conducts third-party penetration testing twice a year.
